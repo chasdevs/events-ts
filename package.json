@@ -1,6 +1,6 @@
 {
   "name": "@chasdevs/events-ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Compiled Avro events for Typescript and Javascript.",
   "scripts": {
     "compile": "rm -rf lib/* && tsc",
