@@ -1,0 +1,8 @@
+.idea
+node_modules
+
+# Ignore all built javascript files and typescript definition files.
+*.js
+*.d.ts
+
+lib
